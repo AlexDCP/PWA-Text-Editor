@@ -18,6 +18,8 @@ If you go through the repo, after cloning the user needs to run the command `npm
 
 ## Usage
 
+![screenshot](./assets/jate.JPG)
+
 To access the deployed app, visit: https://jate-editor-123.herokuapp.com/
 
 Github repo: https://github.com/AlexDCP/PWA-Text-Editor
